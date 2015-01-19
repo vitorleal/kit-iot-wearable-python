@@ -10,9 +10,7 @@ version = "1.0.0"
 setup(
   name="kit-iot-wearable",
   version=version,
-  install_requires=[
-    "PyBluez"
-  ],
+  install_requires=[],
   packages=['wearable'],
   author="Vitor Leal",
   author_email="vitor@telefonicabeta.com",
